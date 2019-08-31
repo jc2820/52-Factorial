@@ -1,2 +1,2 @@
 # 52-Factorial
-A site that draws a random hand of 52 cards then redraws until a match is made
+A page that draws a random first hand of 52 cards then randomly redraws hands until a match is made to the first.
